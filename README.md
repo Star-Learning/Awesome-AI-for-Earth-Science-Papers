@@ -12,7 +12,7 @@ A curated collection of papers and resources at the intersection of **Artificial
   - [1. Climate & Weather Modeling](#1-climate--weather-modeling)
   - [2. Remote Sensing & Earth Observation](#2-remote-sensing--earth-observation)
   - [3. Land, Water & Environment](#3-land-water--environment)
-  - [4. Multi-Modal LLM for Earth Science](#4-multi-modal LLM for earth science)
+  - [4. Multi-Modal LLM for Earth Science](#4-multi-modal-llm-for-earth-science)
 - [Datasets & Benchmarks](#datasets--benchmarks)
 
 ---
@@ -41,6 +41,7 @@ A curated collection of papers and resources at the intersection of **Artificial
 | AeroGen      | AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation | CVPR 2025   | [paper](https://arxiv.org/pdf/2411.15497) / [code](https://github.com/Sonettoo/AeroGen) |
 | ROS-SAM      | ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object | CVPR 2025   | [paper](https://arxiv.org/pdf/2503.12006) / [code](https://github.com/ShanZard/ROS-SAM) |
 | HyperFree    | HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery | CVPR 2025   | [paper](https://rsidea.whu.edu.cn/HyperFree.pdf) / [code](https://github.com/Jingtao-Li-CVer/HyperFree) / [project](https://rsidea.whu.edu.cn/hyperfree.htm#) |
+| DynamicVis   | DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding | Arxiv 2025  | [paper](https://arxiv.org/pdf/2503.16426) / [code](https://github.com/KyanChen/DynamicVis) |
 
 ---
 
@@ -55,10 +56,10 @@ A curated collection of papers and resources at the intersection of **Artificial
 
 ### 4. 🧠 Multi-Modal LLM for Earth Science
 
-| Abbreviation | Title | Publication | Link |
-| ------------ | ----- | ----------- | ---- |
-|              |       |             |      |
-|              |       |             |      |
+| Abbreviation | Title                                                        | Publication | Link                                                         |
+| ------------ | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| UrBench      | UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios | AAAI 2025   | [paper](https://arxiv.org/abs/2408.17267) / [code](https://github.com/opendatalab/UrBench) / [project](https://opendatalab.github.io/UrBench/) |
+|              |                                                              |             |                                                              |
 
 ---
 
