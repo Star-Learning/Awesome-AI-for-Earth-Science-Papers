@@ -8,17 +8,12 @@ A curated collection of papers and resources at the intersection of **Artificial
 
 ## 📚 Table of Contents
 
-- [Overview](#overview)
 - [Categories](#categories)
   - [1. Climate & Weather Modeling](#1-climate--weather-modeling)
   - [2. Remote Sensing & Earth Observation](#2-remote-sensing--earth-observation)
   - [3. Land, Water & Environment](#3-land-water--environment)
-  - [4. Geoscience & Earth System Modeling](#4-geoscience--earth-system-modeling)
-  - [5. Foundational AI for Earth Science](#5-foundational-ai-for-earth-science)
+  - [4. Multi-Modal LLM for Earth Science](#4-multi-modal LLM for earth science)
 - [Datasets & Benchmarks](#datasets--benchmarks)
-- [Related Repositories](#related-repositories)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -73,6 +68,4 @@ A curated collection of papers and resources at the intersection of **Artificial
 | ---------- | ------------------------------------------------------------ | ------------ | -------------------------------------------------- |
 | Terra      | Terra: A Multimodal Spatio-Temporal Dataset Spanning the Earth | NeurIPS 2024 | [paper](https://nips.cc/virtual/2024/poster/97768) |
 | ChaosBench | ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction | NeurIPS 2024 | [paper](https://arxiv.org/abs/2402.00712)          |
-|            |                                                              |              |                                                    |
-|            |                                                              |              |                                                    |
 
